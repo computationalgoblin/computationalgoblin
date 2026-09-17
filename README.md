@@ -1,15 +1,38 @@
-## Hi there!
+## Hi, I'm Ángel 👋
 
-### Welcome to my GitHub!
+Developer from Almería, Spain. I came to software through psychology and data analytics, and now I build **Python applications with AI at their core**: desktop tools, local-first services and AI integrations, with the tests and architecture to back them.
 
-I'm Angel, a Junior Data Analyst with a background in Psychology and a **BIG** passion for data science. I recently graduated from Ironhack’s Data Analytics Master program. I thrive on tackling learning challenges both autonomously and as part of a team. My mission is to enhance and simplify lives—both within companies and for individuals—through the power of data.
+Currently studying a **Master's in Cloud Computing, DevOps and Artificial Intelligence** (Pontia, 2026). Previously: Ironhack Data Analytics bootcamp (2023–2024).
 
-On my main page, you'll find a collection of the projects I'm currently working on, as well as those I've completed. Each project includes a corresponding README file where you can read more about it in detail.
+### Featured projects
 
-Right now, I am eager to apply my skills in real-world settings. I'm actively looking for job opportunities in the data field. If you find something interesting in my portfolio, feel free to connect with me on [LinkedIn](https://www.linkedin.com) or via email at [angelexpgar@gmail.com](mailto:angelexpgar@gmail.com).
+| Project | What it is | Stack |
+|---|---|---|
+| [**Dendro**](https://github.com/computationalgoblin/dendro) | Desktop app for narrative design and worldbuilding. A structured story knowledge base where AI suggests "seeds" but never edits canon without the writer's approval. Clean layered architecture enforced by tests, versioned project store, packaged for Windows. Beta. | Python 3.12 · PySide6 · pytest · PyInstaller |
+| [**firstmate-remote**](https://github.com/computationalgoblin/firstmate-remote) | Asynchronous voice remote for the [First Mate](https://github.com/kunchenguid/firstmate) agent supervisor: dictate from an iPhone, get a push when the agent answers, listen later. Hardened HTTP gateway, SQLite job queue, zero dependencies. | Python · SQLite · systemd · Tailscale · ntfy |
+| [**Smart Home Energy Forecasting**](https://github.com/computationalgoblin/Smart-Home-Energy-Consumption-Project) | Hourly consumption forecasting from IoT and weather data: EDA, ARIMA, Prophet and LSTM models benchmarked against a persistence baseline, plus change-point anomaly detection. Includes a documented fix of an evaluation leak in the original version. | pandas · statsmodels · TensorFlow · Prophet |
 
-### Current Projects
-At the moment, I'm continuing the projects I started during my last training and incorporating every new tool I learn. I am currently studying for the Microsoft PL-300 and AZ-900 certifications and applying the tools and knowledge gained from these courses. I expect to start new projects soon, and I will keep this README updated with any new changes!
+### Toolbox
 
-Thanks for stopping by, and happy coding!
+`Python` `pandas` `scikit-learn` `SQL` `Tableau` `PySide6` `pytest` `Git & GitHub Actions` `Docker` `LLM APIs`
 
+### Contact
+
+📫 [angelexpgar@gmail.com](mailto:angelexpgar@gmail.com)
+
+---
+
+<details>
+<summary><b>🇪🇸 En español</b></summary>
+
+Soy Ángel, desarrollador de Almería. Llegué al software desde la psicología y el análisis de datos, y ahora construyo **aplicaciones en Python con la IA como núcleo**: herramientas de escritorio, servicios locales e integraciones con IA, siempre con tests y una arquitectura que los sostenga.
+
+Estoy cursando el **Máster en Cloud Computing, DevOps e Inteligencia Artificial** de Pontia (2026). Antes hice el bootcamp de Data Analytics de Ironhack (2023–2024).
+
+- **Dendro**: aplicación de escritorio para diseño narrativo y worldbuilding asistida por IA, en beta.
+- **firstmate-remote**: mando de voz asíncrono desde el iPhone para el supervisor de agentes First Mate.
+- **Smart Home Energy Forecasting**: predicción horaria de consumo eléctrico con modelos de series temporales comparados contra una línea base.
+
+📫 [angelexpgar@gmail.com](mailto:angelexpgar@gmail.com)
+
+</details>
